@@ -2733,6 +2733,11 @@ input[type="radio"]+label:before {
 	width: 100%;
 }
 
+.qr {
+	width: 50px !important;
+	height: 50px !important;
+	padding-left: 0.5em;
+}
 /* List */
 
 ol {
@@ -4032,9 +4037,3 @@ body.is-preload #sidebar nav ul li {
 
 }
 
-.qr {
-	/* vertical-align: middle; */
-	width: 50px;
-	height: 50px;
-	padding-left: 0.5em;
-}
